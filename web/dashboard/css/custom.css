@@ -1,0 +1,36 @@
+/* Write your custom CSS here */
+.logout{
+    color: black!important;
+}
+
+.form-control{
+    background: none!important;
+    padding:0px!important;
+    box-shadow: none!important;
+    border:1px solid #fff;
+}
+.sidebar-menu a:hover, .sidebar-menu a:focus{
+    text-decoration: none!important;
+}
+h5{
+    text-align: center;
+}
+.summary{
+    display: inline-block;
+    float: right;
+    margin-bottom: 10px;
+    max-width: 200px;
+    margin-top:-30px;
+}
+.view-img{
+    max-width: 100px;
+}
+#product-cover_img, #product-img, #product-single_img,#slider-image{
+    display: none;
+}
+.slider-views{
+    max-width: 250px;
+}
+.preview-slider{
+    max-width: 150px;
+}
